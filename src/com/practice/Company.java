@@ -10,7 +10,5 @@ public static void main(String[] args) {
 	c.companyName("tcs");
 	
 	
-	c.industryName("hyundai");
-	
 }
 }

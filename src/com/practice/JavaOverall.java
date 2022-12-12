@@ -7,12 +7,12 @@ public class JavaOverall extends Industry {
 	}
 		public void employeeId(int id) {
 		System.out.println("the id is:"+ id);
-		
+		}	
 
 public static void main(String[] args) {
 	JavaOverall n=new JavaOverall();
 	n.employeeName("dinesh");
 	n.employeeId(23);
-	n.industryName("kone");
+	
 }
 }
